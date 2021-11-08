@@ -1,0 +1,1 @@
+time\tgx\tgy\tgz\tax\tay\taz\tp\ty\tr\ttmp\tpressure\talt\tlat\tlon\talt\tlat\talt gps\tsat\tspeed\tpps

@@ -1,0 +1,1 @@
+time	gx	gy	gz	ax	ay	az	p	y	r	tmp	pressure	alt	lat	lon	alt	lat	alt gps	sat	speed	pps
